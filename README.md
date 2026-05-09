@@ -2,7 +2,7 @@
 
 A production-quality Next.js app that generates 3 tailored interview questions for any job title, powered by the **Google Gemini API** via the **Vercel AI SDK**.
 
-**Live demo:** _add your live URL here_
+[**Live demo:**](https://interview-copilot-liart.vercel.app/)
 
 ---
 
